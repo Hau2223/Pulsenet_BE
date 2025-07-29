@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# dotenv files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+
+# Optional npm cache directory
+.npm/
+
+# Local env settings
+.local/
+
+# Debug
+debug.log
+
+# PM2 logs
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# TypeScript (nếu dùng)
+*.tsbuildinfo
+
+# Swagger generated files (nếu có)
+swagger-output.json
